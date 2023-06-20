@@ -1,4 +1,4 @@
-# comm_bloc
+# Communication Between Flutter Bloc
 
 A new Flutter project.
 
